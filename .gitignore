@@ -1,0 +1,25 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+*.env
+
+# Compiled files
+dist/
+build/
+*.log
+*.pid
+*.out
+
+# Dependencies installed via npm
+/coverage/
+/.nyc_output/
+/.cache/
+/.sass-cache/
+*.swp
+*.swo
+*.DS_Store
+
+# Misc
+.DS_Store
+Thumbs.db
